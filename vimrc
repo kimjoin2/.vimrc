@@ -1,0 +1,17 @@
+set nu
+set tabstop=4
+set expandtab
+set ts=8
+set sw=4
+set sts=4
+set shiftwidth=4
+set smartindent
+set cindent
+set autoindent
+set t_Co=256
+set ruler
+set autowrite
+set autoread
+set hlsearch
+set showmatch 
+syntax on
